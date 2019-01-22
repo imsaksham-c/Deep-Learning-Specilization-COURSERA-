@@ -1,6 +1,6 @@
 # Deep-Learning-Specialization-COURSERA
 
-I had accomplished Andrew Ng’s Deep Learning Specialization course series in Coursera. I hope this review would be insightful for those whom might want to enter this field or simply consolidate your deep learning knowledge.
+I had accomplished Andrew Ng’s [DeepLearning.ai](https://deeplearning.ai) series in Coursera. I hope this review would be insightful for those whom might want to enter this field or simply consolidate your deep learning knowledge.
 This repository contains my personal notes and summaries on DeepLearning.ai specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too.
 DeepLearning.ai contains five courses which can be taken on Coursera. The five courses titles are:
 
