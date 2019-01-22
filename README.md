@@ -33,7 +33,6 @@ In the last course, it first talks about RNNs and LSTM then dive in to NLP and t
 
 At last I've successfully completed the specialization and earned my [certificate]
 (https://www.coursera.org/account/accomplishments/specialization/certificate/A6EUNFKZZPQU)!
-
 ![](Certificate.png)
 
 ## Similar Notes
