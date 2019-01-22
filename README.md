@@ -12,6 +12,11 @@ DeepLearning.ai contains five courses which can be taken on Coursera. The five c
 
 This is by far the best course series on deep learning that I've taken. Enjoy!
 
+At last I've successfully completed the specialization and earned my [certificate]
+(https://www.coursera.org/account/accomplishments/specialization/certificate/A6EUNFKZZPQU!
+
+![](Certificate.png)
+
 # Course Overview
 
 # Deep Learning and Neural Network:
@@ -29,11 +34,7 @@ In course 4, Andrew would teach what is computer vision and how does a Convoluti
 # Sequence Models:
 In the last course, it first talks about RNNs and LSTM then dive in to NLP and teach the major concepts such as Word Embedding, Word2Vec, Bleu Score, Beam Search, Skip Gram, etc. Lastly, you could practice how to build a machine translation model.
 
-## Specialization Certificate
 
-At last I've successfully completed the specialization and earned my [certificate]
-(https://www.coursera.org/account/accomplishments/specialization/certificate/A6EUNFKZZPQU)!
-![](Certificate.png)
 
 ## Similar Notes
 
