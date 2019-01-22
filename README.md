@@ -12,7 +12,9 @@ DeepLearning.ai contains five courses which can be taken on Coursera. The five c
 
 This is by far the best course series on deep learning that I've taken. Enjoy!
 
-At last I've successfully completed the specialization and earned my [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/A6EUNFKZZPQU)!![](Certificate.png)
+At last I've successfully completed the specialization and earned my [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/A6EUNFKZZPQU)!
+
+![](certificate.png)
 
 # Course Overview
 
